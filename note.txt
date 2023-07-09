@@ -1,0 +1,13 @@
+RIENDLY NAME
+akuh-twilio-otp
+
+SID
+SK4fc5217de196c6dc3fbaba19357eaa37
+
+KEY TYPE
+Standard
+
+SECRET
+J3FswRrf7g1L0TILV2CzEN2JNsIiu2Eb
+
+Got it! I have saved my API Key Sid and Secret in a safe place to use in my application.
